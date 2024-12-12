@@ -11,7 +11,7 @@ The materials in this repository are designed to help you deepen your understand
 
 1. **Tutorial (PDF)**: A detailed explanation of the theory behind hyperparameter tuning and feature scaling in SVM models. This document explains the impact of different parameters on the model's decision boundaries and performance.
    
-2. **Practical Example (Jupyter Notebook)**: An interactive Python notebook demonstrating the implementation of the concepts discussed in the tutorial. This file includes code examples and visualizations of decision boundaries for different \(C\) and \(\gamma\) values, as well as the effect of feature scaling on model performance.
+2. **Practical Example (Jupyter Notebook)**: An interactive Python notebook demonstrating the implementation of the concepts discussed in the tutorial. This file includes code examples and visualizations of decision boundaries for different (C) and (gamma) values, as well as the effect of feature scaling on model performance.
 
 ## Getting Started
 
