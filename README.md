@@ -2,7 +2,7 @@
 
 This repository contains a tutorial on **Fine-Tuning Support Vector Machines (SVMs)**, focusing on two critical aspects:
 
-- **Hyperparameter Tuning**: Understanding how parameters like the regularization parameter \(C\) and kernel coefficient \(\gamma\) influence the performance of SVM models.
+- **Hyperparameter Tuning**: Understanding how parameters like the regularization parameter (C) and kernel coefficient (gamma) influence the performance of SVM models.
 - **Feature Scaling**: Exploring how scaling features ensures better model performance by preventing one feature from dominating the decision boundary.
 
 The materials in this repository are designed to help you deepen your understanding of SVMs and how to optimize them for various machine learning tasks.
