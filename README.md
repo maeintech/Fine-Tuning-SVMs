@@ -26,10 +26,8 @@ To get started with the practical example, you will need:
 1. Open the **Support_Vector_Machines_Tutorial.ipynb** file in Jupyter Notebook
 2. Follow the step-by-step guide in the notebook to run the practical examples and explore the impact of hyperparameters and feature scaling on SVM performance.
 
-### Installation
+## License
 
-If you don't have the necessary libraries installed, you can install them using pip:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```bash
-pip install scikit-learn matplotlib numpy pandas
 
