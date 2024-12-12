@@ -20,5 +20,6 @@ Jupyter Notebook
 The following Python libraries: scikit-learn, matplotlib, numpy, pandas
 
 Running the Tutorial
+
 Open the Support_Vector_MachinesTutorial.ipynb file in Jupyter Notebook.
 Follow the step-by-step guide in the notebook to run the practical examples and explore the impact of hyperparameters and feature scaling on SVM performance.
